@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MD Rasel</h1>
 <h3 align="center">I am a web developer</h3>
 
-- 📫 How to reach me **mdrasel601390@gmail.com**
+- 📫 How to reach me **md.firasel@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Bd9AM9aDCjD_jr6rJpa0PxY3yVR-KmBh/view?usp=sharing](https://drive.google.com/file/d/1Bd9AM9aDCjD_jr6rJpa0PxY3yVR-KmBh/view?usp=sharing)
 
